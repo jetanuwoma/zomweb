@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "zomuje-new"
+  },
+  "targets": {
+    "zomuje-new": {
+      "hosting": {
+        "admin": [
+          "zomuje-new"
+        ]
+        ,
+        "website": [
+          "https://zomuje-new.web.app"
+        ]
+      }
+    }
+  }
+}
